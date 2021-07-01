@@ -22,13 +22,13 @@ function App() {
           country='Germany'
           bio='My name is Soeren Schroeter. I am currently a Master Student in Frankfurt, Germany with a focus on Management. In 2019, I graduated my Bachelor studies in Business Information Systems. Since I was a kid, my interests in the technological area have always been advanced. Solving complex problems has never been a problem, the more complex the problem, the better. A challenging environment is, from my point view, the best to grow effectively and quickly. Breaking through barriers everyday is a personal goal of mine. Therefore, I am looking forward to more challenges and an even more competitive environment. '/>
         <Bio
+          name='Charmaine Chan'
+          country='Hong Kong'
+          bio='Hello I am Charmaine from Hong Kong! I am an undergraduate studying Global Business at The Hong Kong University of Science and Technology. I enjoy working in team settings because it is always where I get to learn and grow the most! In my first and second year at university, I was very lucky to have opportunities in gaining different exposure to entrepreneurship - I interned in startup, and I also led a venture capital themed case competition for students in Hong Kong. Both experiences provided me a glimpse into the world of entrepreneurship, consequently cemented my desire to explore it further from more angles. So here I am for this summer! '/>
+        <Bio
           name='Tomas Nozica'
           country='Argentina'
           bio='Hey everyone! My name is Tomas Nozica. I’m from Buenos Aires, Argentina. I’m studying Computer Engineer at the Catholic University of Argentina. My hobbies includes Golf and spending time outside with my friends or my family. I enjoy (and miss) traveling around the world and in my country. I speak both Spanish and English. Very excited to see what our team will develop!'/>
-        <Bio
-          name='NameSample'
-          country='CountrySample'
-          bio='This is a bio'/>
         <Bio
           name='NameSample'
           country='CountrySample'
