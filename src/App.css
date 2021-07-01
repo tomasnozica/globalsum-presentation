@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: center;
+  background-color: #42d7e6;
+  box-shadow: 0px 5px 5px 0px #C1C1C1;
+}
+.header-img{
+  height: 125px;
+  width: 125px;
+}
+.bios {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+  justify-content: center;
+}
