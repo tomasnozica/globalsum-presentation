@@ -18,13 +18,13 @@ function App() {
           country='Indonesia'
           bio='Rahmani is a Final Year Undergraduate Student at The National University of Singapore majoring in Communications & New Media and minoring in Entrepreneurship. Rahmani has a strong interest in entrepreneurship, marketing, women empowerment and wellness. She founded an online retail business called Rebel Wardrobe and a social enterprise called ArtisTree. These experiences sparked her interest in entrepreneurship and her constant quest to learn more about different industries, hence she always interns at start-ups during holidays in either marketing or business development roles.'/>
         <Bio
+          name='Soeren Schroeter'
+          country='Germany'
+          bio='My name is Soeren Schroeter. I am currently a Master Student in Frankfurt, Germany with a focus on Management. In 2019, I graduated my Bachelor studies in Business Information Systems. Since I was a kid, my interests in the technological area have always been advanced. Solving complex problems has never been a problem, the more complex the problem, the better. A challenging environment is, from my point view, the best to grow effectively and quickly. Breaking through barriers everyday is a personal goal of mine. Therefore, I am looking forward to more challenges and an even more competitive environment. '/>
+        <Bio
           name='Tomas Nozica'
           country='Argentina'
           bio='Hey everyone! My name is Tomas Nozica. I’m from Buenos Aires, Argentina. I’m studying Computer Engineer at the Catholic University of Argentina. My hobbies includes Golf and spending time outside with my friends or my family. I enjoy (and miss) traveling around the world and in my country. I speak both Spanish and English. Very excited to see what our team will develop!'/>
-        <Bio
-          name='NameSample'
-          country='CountrySample'
-          bio='This is a bio'/>
         <Bio
           name='NameSample'
           country='CountrySample'
