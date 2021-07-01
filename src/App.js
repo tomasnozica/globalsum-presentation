@@ -26,13 +26,13 @@ function App() {
           country='Hong Kong'
           bio='Hello I am Charmaine from Hong Kong! I am an undergraduate studying Global Business at The Hong Kong University of Science and Technology. I enjoy working in team settings because it is always where I get to learn and grow the most! In my first and second year at university, I was very lucky to have opportunities in gaining different exposure to entrepreneurship - I interned in startup, and I also led a venture capital themed case competition for students in Hong Kong. Both experiences provided me a glimpse into the world of entrepreneurship, consequently cemented my desire to explore it further from more angles. So here I am for this summer! '/>
         <Bio
+          name='Abhay Sharma'
+          country='United Arab Emirates'
+          bio='Hello! I am Abhay Sharma, a student in the United Arab Emirates who is passionate about economics, entrepreneurship and sports! Entrepreneurship is something that excites me and I have been exploring entrepreneurship as a high school senior. I enjoy debating, critical thinking and solving problems around me. I love to question everything and think about philosophical questions that surround us. I am also the co-founder of the International Youth Debates, an organization that helps provide competitive debate opportunities to budding debaters, and the Young Economists Society, a platform that helps aspiring economists explore their passion.'/>
+        <Bio
           name='Tomas Nozica'
           country='Argentina'
           bio='Hey everyone! My name is Tomas Nozica. I’m from Buenos Aires, Argentina. I’m studying Computer Engineer at the Catholic University of Argentina. My hobbies includes Golf and spending time outside with my friends or my family. I enjoy (and miss) traveling around the world and in my country. I speak both Spanish and English. Very excited to see what our team will develop!'/>
-        <Bio
-          name='NameSample'
-          country='CountrySample'
-          bio='This is a bio'/>
         
       </div>
     </div>
